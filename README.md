@@ -95,7 +95,7 @@ Os títulos a seguir aparecem na lista que o autor forneceu. Quando a lista não
 | 32 | Expliquei TODOS os BOTÕES do VOLANTE da F1 em detalhes! | Controles do volante e comandos do piloto. | Link pendente de confirmação |
 | 33 | F1 2026 Regulations Explained — “The Biggest Changes in F1 History” | Vídeo oficial da FIA sobre as principais mudanças de 2026. | [Assistir no YouTube](https://www.youtube.com/watch?v=-ax69wWKk8A) |
 | 34 | F1 para iniciantes: Como acompanhar a F1 em 2026? Você sabe como ela funciona? #f1 #f12026 | Como acompanhar uma sessão e entender informações da transmissão. | Link pendente de confirmação |
-| 35 | Guia Básico: Tudo Sobre Fórmula 1 || Esportudo Explica | Regras gerais, bandeiras e dinâmica de corrida. | Link pendente de confirmação |
+| 35 | Guia Básico: Tudo Sobre Fórmula 1 \|\| Esportudo Explica | Vídeo / YouTube | Introdução a regras gerais, bandeiras e dinâmica de corrida. | Link pendente de confirmação |
 | 36 | O ÚNICO VÍDEO QUE VOCÊ PRECISA ASSISTIR PARA ENTENDER F1 | Introdução em português sobre corridas, pontos, bandeiras, pneus e estratégias. | [Assistir no YouTube](https://www.youtube.com/watch?v=tAsnLDNWrHY) — confirmar que é a entrada usada |
 | 37 | O único vídeo que VOCÊ PRECISA ASSISTIR para ENTENDER F1 2026! | Introdução em português às mudanças de 2026. | Link pendente de confirmação |
 
@@ -125,17 +125,27 @@ O painel também mostrou o item **“entendo sobre formula 1”** e um relatóri
 
 O mapa resume visualmente os temas estudados: unidade de potência, chassi e aerodinâmica, pneus, estrutura do fim de semana, sinalização de pista e estratégias de box. As informações técnicas do mapa são material de estudo gerado por IA e devem ser conferidas nas fontes oficiais quando usadas para confirmar regras vigentes.
 
-## ❓ Perguntas e respostas com citações
+## ❓ Perguntas, respostas e evidências
 
-Esta seção será preenchida com perguntas reais feitas ao notebook e capturas que mostrem as citações. Para cada exemplo, registrar:
+Abaixo estão duas perguntas realmente feitas ao notebook, com sínteses das respostas observadas nas capturas publicadas neste repositório.
 
-- **Pergunta:** texto efetivamente enviado ao notebook.
-- **Síntese da resposta:** resumo fiel da resposta recebida.
-- **Fonte citada:** título exibido na citação e link para a fonte.
-- **Verificação:** o que foi conferido na fonte original.
-- **Evidência:** caminho para a captura de tela correspondente.
+### Exemplo 1 — Regulamentos de 2026
 
-As perguntas e capturas ainda não foram incorporadas a este arquivo. Elas serão adicionadas quando os materiais forem enviados ao repositório.
+- **Pergunta:** “regras vigentes na f1 2026 segundo a fia”
+- **Síntese da resposta:** o notebook iniciou uma consulta sobre as regras de 2026, indicando que estava analisando regulamentos esportivos e técnicos. A resposta introduziu as principais frentes de regras e diretrizes da temporada.
+- **Evidências:** [captura da pergunta e resposta](evidencias/03-pergunta-regulamentos-2026.png) e [captura complementar da resposta](evidencias/01-resposta-regulamentos-fontes.png).
+- **O que a evidência demonstra:** a interface apresenta marcadores numéricos de citação na resposta.
+- **Limite da evidência:** os títulos das fontes correspondentes a cada marcador não ficam legíveis nas capturas. Antes da submissão, abra os marcadores no notebook e registre qual documento sustenta cada afirmação importante.
+
+### Exemplo 2 — Unidade de potência de 2026
+
+- **Pergunta:** “Como funciona o novo motor de 2026?”
+- **Síntese da resposta:** o notebook apresentou uma explicação introdutória da unidade de potência, abordando a arquitetura V6 turbo de 1,6 litro, a divisão entre potência térmica e elétrica, a eliminação do MGU-H e o papel ampliado do MGU-K.
+- **Evidência:** [captura da resposta sobre o motor de 2026, com marcadores de citação](evidencias/04-resposta-motor-2026.png).
+- **O que a evidência demonstra:** aparecem marcadores de citação em partes da explicação, associando a resposta às fontes selecionadas.
+- **Limite da evidência:** a captura não identifica de forma legível o título de cada fonte citada. Os detalhes técnicos resumidos pela IA devem ser conferidos no regulamento técnico vigente da FIA ou em documentação técnica primária antes de serem tratados como fatos confirmados.
+
+As capturas demonstram a presença de citações, mas não substituem a conferência das fontes originais. Para fortalecer a evidência exigida no desafio, abra as citações dentro do notebook e registre o título ou endereço da fonte específica que sustenta cada resposta.
 
 ## 🔗 Notebook compartilhado
 
@@ -149,9 +159,11 @@ Antes da entrega, testar o link numa janela privada ou com outra conta para veri
 - [ ] Recuperar os links individuais que continuam pendentes.
 - [ ] Conferir títulos e datas de fontes que mencionam 2026 ou 2027.
 - [ ] Adicionar a diretriz exata fornecida ao notebook.
-- [ ] Adicionar perguntas reais, respostas resumidas e citações verificadas.
+- [x] Documentar duas perguntas reais e resumir as respostas com base nas capturas publicadas.
 - [x] Adicionar o mapa mental original (PNG) ao pacote do repositório.
-- [ ] Confirmar se o relatório e os slides gerados pelo NotebookLM foram baixados e adicionar os que estiverem disponíveis.
+- [x] Adicionar o PDF ilustrado e as quatro capturas de evidência.
+- [ ] Abrir os marcadores de citação no notebook e identificar os títulos/links exatos das fontes que sustentam cada resposta.
+- [ ] Adicionar os slides gerados pelo NotebookLM, caso sejam gerados e baixados; a apresentação complementar deste repositório está identificada separadamente.
 - [ ] Confirmar que todos os arquivos citados no README existem no repositório.
 - [ ] Confirmar que o link compartilhado do notebook abre para o avaliador.
 - [ ] Remover dados pessoais e materiais que não possam ser redistribuídos.
